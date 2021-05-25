@@ -27,7 +27,7 @@
     "@inkline/inkline": "^2.3.6",
     "@inkline/nuxt": "^2.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fuse.js": "^6.2.1",
     "lodash-es": "^4.17.15",
     "nuxt": "^2.13.0",
