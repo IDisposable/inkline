@@ -54,7 +54,7 @@
     "jest-serializer-vue": "^2.0.2",
     "jest-transform-stub": "^2.0.0",
     "markdown-complete-loader": "^1.1.0",
-    "markdown-it": "^11.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-attrs": "^3.0.3",
     "markdown-it-front-matter": "^0.2.1",
     "markdown-it-github-headings": "^2.0.0",
